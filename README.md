@@ -1,4 +1,4 @@
-# To Do list
+# To Do List
 
 * Create a simple list using the input box
 
