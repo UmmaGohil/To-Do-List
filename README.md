@@ -1,6 +1,6 @@
 # To Do List
 
-* Create a simple list using the input box
+* A simple list using the input box
 
 ## Running the app
 * Clone or download the repository
